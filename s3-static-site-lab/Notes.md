@@ -11,4 +11,4 @@ Set up a basic static website using Amazon S3.
 5. Accessed site using the public endpoint
 
 ## Screenshots:
-See the 'screenshots/' folder for step-by-step images
+See the 'screenshots/' folder for step-by-step images. These are reference screenshots from the video I followed to complete the lab. I'll include my own step-by-step screenshots in future labs. 
